@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.eggs
+*.env
+*.venv
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Secret keys
+my-key.json
+
+# Logs
+*.log
+
+# Others
+*.sqlite3
+*.db
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Firebase
+firebase-debug.log
+C:\pydata\test\Auto+AI\__pycache__
+C:\pydata\test\Auto+AI\my-key.json
